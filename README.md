@@ -2,7 +2,9 @@
 
 Written By: Matt Marchese - https://github.com/General-Gouda
 
-Version: 2019.06.03
+Version: Beta - 2019.06.03
+
+In need of testers!
 
 ## **Summary**
 
