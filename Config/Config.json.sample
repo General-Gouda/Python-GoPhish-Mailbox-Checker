@@ -1,0 +1,18 @@
+{
+    "Log_Level": 20,
+    "Log_Location": ".//Logs",
+    "Run_Once": false,
+    "Run_Interval_Timer": 30,
+    "Resource": "https://graph.microsoft.com",
+    "Graph_API_Endpoint": "https://graph.microsoft.com/v1.0",
+    "Authority": "https://login.microsoftonline.com/",
+    "Tenant_ID": "tenant_id_goes_here",
+    "Client_ID": "client_id_goes_here",
+    "Mailbox": "mailbox@domain.com",
+    "Mail_Folder_To_Check": "Mail Folder To Check",
+    "Gophish_URL_Header": "X-Custom-HeaderWithURLIncluded",
+    "Gophish_Category": {
+        "Name": "Gophish Reported",
+        "Color": "preset4"
+    }
+}
